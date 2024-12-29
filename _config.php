@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://aniwatch-api-psi-eight.vercel.app/"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://hianime.p.rapidapi.com"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
