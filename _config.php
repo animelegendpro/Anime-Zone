@@ -11,7 +11,7 @@ $version = "0.3";
 $donate = "#";
 
 // Socials 
-$telegram = "https://t.me/#"; // telegram
+$telegram = "https://t.me/+OtkQ1dKA5RdkYTI1"; // telegram
 $discord = "https://discord.com/#"; // Discord
 $redit = "#"; // Reddit
 $twitter = "#"; // Twitter
@@ -22,8 +22,8 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://hianime.p.rapidapi.com"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://anikatsu-api-2024-tau.vercel.app/"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
-$banner = $websiteUrl . "/files/images/banner.png";  //Banner
+$banner = $websiteUrl . "https://ibb.co/42b4j6G";  //Banner
 ?>
